@@ -63,10 +63,8 @@ int main() {
 
 	Calculator calc(1,1);
 
-	double num1;
-	double num2;
+	double num1, num2;
 
-	bool c = true;
 
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
